@@ -6,8 +6,10 @@ const Intro = () => {
             < div className="header">
                 <div className="header__block">
                     <div className="header__block_inner">
+                        {/* <div className="blink"> */}
                         <h1>ПУТЕШЕСТВИЕ</h1>
                         <h2>на красную планету</h2>
+                        {/* </div> */}
                     </div>
                     <div className="header__btn_box">
                         <button className='header__btn'>Начать путешествие</button>
